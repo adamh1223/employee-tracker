@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to Employee Tracker! This CLI application allows a developer to quickly see, update, and add to a database of employees, roles, and departments. The cate
+Welcome to Employee Tracker! This CLI application allows a developer to quickly see, update, and add to a database of employees, roles, and departments.
 
 ## Table of Contents
 
